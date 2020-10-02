@@ -23,8 +23,8 @@
     n=n/10;    
     }    
     if(temp==sum)    
-    printf("palindrome number ");    
+    printf("\npalindrome number is : ");    
     else    
-    printf("not palindrome");   
+    printf("\nnot palindrome");   
     return 0;  
     }   
